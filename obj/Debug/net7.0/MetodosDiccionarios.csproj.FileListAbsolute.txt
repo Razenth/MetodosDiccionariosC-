@@ -1,0 +1,15 @@
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/bin/Debug/net7.0/MetodosDiccionarios
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/bin/Debug/net7.0/MetodosDiccionarios.deps.json
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/bin/Debug/net7.0/MetodosDiccionarios.runtimeconfig.json
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/bin/Debug/net7.0/MetodosDiccionarios.dll
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/bin/Debug/net7.0/MetodosDiccionarios.pdb
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.csproj.AssemblyReference.cache
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.AssemblyInfoInputs.cache
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.AssemblyInfo.cs
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.csproj.CoreCompileInputs.cache
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.dll
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/refint/MetodosDiccionarios.dll
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.pdb
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/MetodosDiccionarios.genruntimeconfig.cache
+/home/skylab-111/Documents/TempYo/MetodosDiccionarios/obj/Debug/net7.0/ref/MetodosDiccionarios.dll
